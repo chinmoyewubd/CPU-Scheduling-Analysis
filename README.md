@@ -64,7 +64,7 @@ The program calculates:
 ---
 
 ## 📂 Project Structure
-
+---
 CPU-Scheduling-Analysis/
 │
 ├── CSE325_project.c
