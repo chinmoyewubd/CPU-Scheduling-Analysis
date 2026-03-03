@@ -77,7 +77,7 @@ CPU-Scheduling-Analysis/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/cpu-scheduling-analysis.git
+git clone https://github.com/chinmoyewubd/cpu-scheduling-analysis.git
 
 2. Navigate to the project directory:
 
