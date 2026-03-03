@@ -64,13 +64,13 @@ The program calculates:
 ---
 
 ## 📂 Project Structure
----
+```
 CPU-Scheduling-Analysis/
 │
 ├── CSE325_project.c
 ├── PROJECT REPORT.pdf
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run the Project
